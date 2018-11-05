@@ -1,4 +1,4 @@
-Userful Command:
+Userful Example Commands:
 
 node_modules/.bin/sequelize init
 

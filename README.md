@@ -1,5 +1,4 @@
-Userful Example Commands:
-
+USEFUL EXAMPLE COMMANDS:
 node_modules/.bin/sequelize init
 
 node_modules/.bin/sequelize db:migrate
